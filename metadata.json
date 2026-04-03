@@ -1,0 +1,5 @@
+{
+  "name": "Cat and Rat Escape",
+  "description": "A 2D browser game based on a Nigerian playground classic. Help the rats navigate through cat-patrolled zones to reach safety.",
+  "requestFramePermissions": []
+}
